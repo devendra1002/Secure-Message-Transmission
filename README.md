@@ -17,12 +17,17 @@ Decryption: Conversion of message from raw to readable format so that receiver c
 The above file have cryptography key two methods encrypt and decrypt can be used for encryption and decryption of message using secret key.
 secret key is (ssshhhhhhhhhhh!!!!).
 
-# Sender.java 
+# File: (SenderWindow.java)
 The above file contain the code of Sender window which will be display in the sender side. sender can encrypt message using above mentioned secret key.
 
-# Receiver.java
+# File: (ReceiverWindow.java)
 The above file contain the code of Receiver window whic will be display in the receiver side. Receiver decrypt message using the same 
 mentioned secret key.
+
+# File: (.jar extension)
+Both files with .jar extension are executable file.
+Files with .jar extension can be used for directly execute main class file code without any IDE.
+Every application software delivers to the client with .jar file.
 
 # Implementation:
 Implemented using Java programming language only no other programming language required for implementation.
