@@ -30,7 +30,7 @@ Files with .jar extension can be used for directly execute main class file code 
 Every application software delivers to the client with .jar file.
 
 # Implementation:
-Implemented using Java programming language only no other programming language required for implementation.
+Implemented using Java programming language only, no other programming language required for implementation.
 
 # Requirements:
 - Core programming 
