@@ -13,6 +13,26 @@ Key will have a password which can be used to convert message into raw data (whi
 2. Message decryption at Receiver side:
 Decryption: Conversion of message from raw to readable format so that receiver can get the actual meaning of the message. this also can be done with the help of same cryptography key. The same password need to share with receiver to get the original form of message.
 
+# Cryptography key : (AES.java)
+The above file have cryptography key two methods encrypt and decrypt can be used for encryption and decryption of message using secret key.
+secret key is (ssshhhhhhhhhhh!!!!).
+
+# Sender.java 
+The above file contain the code of Sender window which will be display in the sender side. sender can encrypt message using above mentioned secret key.
+
+# Receiver.java
+The above file contain the code of Receiver window whic will be display in the receiver side. Receiver decrypt message using the same 
+mentioned secret key.
+
+# Implementation:
+Implemented using Java programming language only no other programming language required for implementation.
+
+# Requirements:
+- Core programming 
+- GUI programming 
+- Networking
+
+
 
 
 
